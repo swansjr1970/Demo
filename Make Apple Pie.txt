@@ -1,5 +1,6 @@
 1. Pick Apples
 2. Peel Apples
 3. Cut Apples
-4. Bake Apples
-5. Eat Pie
+4. Put apples into crust
+5. Bake Apples
+6. Eat Pie
