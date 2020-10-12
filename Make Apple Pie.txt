@@ -1,5 +1,5 @@
-Pick Apples
-Peel Apples
-Cut Apples
-Bake Apples
-Eat Pie
+1. Pick Apples
+2. Peel Apples
+3. Cut Apples
+4. Bake Apples
+5. Eat Pie
