@@ -1,4 +1,5 @@
 Pick Apples
+Peel Apples
 Cut Apples
 Bake Apples
 Eat Pie
