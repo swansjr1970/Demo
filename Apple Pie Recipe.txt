@@ -1,0 +1,6 @@
+1. Pick Apples
+2. Wash Apples
+3. Cut Apples
+4. Add cut Apples to pie crust
+5. Bake Pie
+6. Eat pie
