@@ -2,5 +2,6 @@
 2. Wash Apples
 3. Cut Apples
 4. Add cut Apples to pie crust
-5. Bake Pie
+5. Bake Pie at 440 degrees for 25 minutes
+6. Take out of oven and let pie cool for 30 minutes
 6. Eat pie
